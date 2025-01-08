@@ -1,0 +1,24 @@
+# Obsidian specific files
+.obsidian/cache
+.obsidian/workspace.json
+.trash/
+
+# Obsidian plugins (optional, remove if you want to version control plugins)
+.obsidian/plugins/
+
+# Workspace
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian.mobile
+.obsidian.iphone
+.obsidian.ipad
+
+# Other system files
+.DS_Store
+Thumbs.db
+
+# Hot reload files for Obsidian plugins
+data.json
+
+# Sync conflicts
+*.conflict
