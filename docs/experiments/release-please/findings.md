@@ -40,3 +40,6 @@ A monorepo can effectively manage Terraform module lifecycles, but falls short i
 
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - A specification for adding human and machine readable meaning to commit messages
 - [Release Please GitHub Action](https://github.com/googleapis/release-please) - Automate CHANGELOG generation, versioning, and release creationd version management and package release using Conventional Commit messages
+
+
+Examples of this experiment in action can be found in any modules repository.
